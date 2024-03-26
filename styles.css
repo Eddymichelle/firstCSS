@@ -127,6 +127,6 @@ td {
 
 .rem {
     font-size: 3rem;
-    height: calc (50vh - 100px)
+    height: min(50vh, 600px);
     border: 1px solid #333;
 }
